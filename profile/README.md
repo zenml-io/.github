@@ -1,18 +1,16 @@
-# ZenML Labs
+# 🥼 ZenML Labs
 
-### Ship AI you can trust.
+### 🚀 Open-source infrastructure for production AI
 
-Open-source infrastructure for building, running, and improving production AI.
+We build tools to **ship, test, and improve AI systems in production.**
 
-**[ZenML](https://github.com/zenml-io/zenml)** — Orchestrate AI workflows across any infrastructure.
-Pipelines · Artifacts · Models · Evals · 60+ integrations
+⚡ **[ZenML](https://github.com/zenml-io/zenml)** — Orchestrate AI workflows anywhere.
+🥋 **[Kitaru](https://github.com/zenml-io/kitaru)** — Replay agents. Catch regressions. Ship with confidence.
 
-**[Kitaru](https://github.com/zenml-io/kitaru)** — Turn production agent traces into replayable evals.
-Record · Replay · Compare · Improve
+**🔓 Open Source · ☁️ Any Infrastructure · 🧩 Any AI Stack**
 
-Built for teams shipping AI into production — open source at the core, self-hostable, and designed to work with the stack you already have.
+→ **[zenml.io](https://zenml.io)**
 
-→ **[zenml.io](https://zenml.io)** · **[Docs](https://docs.zenml.io)**
 
 
 <!--
