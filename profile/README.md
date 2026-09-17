@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://zenml.io">
+    <img src="assets/labs-header.png" alt="ZenML Labs — Ship AI you can trust" width="100%">
+  </a>
+</p>
+
 # 🥼 ZenML Labs
 
 ### 🚀 Open-source infrastructure for production AI
